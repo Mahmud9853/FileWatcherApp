@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# meseleleri\\FileWatcherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|d:\\c# meseleleri\\filewatcherapp\\filewatcherapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|solutionrelative:filewatcherapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|d:\\c# meseleleri\\filewatcherapp\\filewatcherapp\\pluginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|solutionrelative:filewatcherapp\\pluginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|d:\\c# meseleleri\\filewatcherapp\\filewatcherapp\\fileinterface\\ifileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|solutionrelative:filewatcherapp\\fileinterface\\ifileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|d:\\c# meseleleri\\filewatcherapp\\filewatcherapp\\fileloader\\xmlfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|solutionrelative:filewatcherapp\\fileloader\\xmlfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|d:\\c# meseleleri\\filewatcherapp\\filewatcherapp\\fileloader\\txtfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|solutionrelative:filewatcherapp\\fileloader\\txtfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|d:\\c# meseleleri\\filewatcherapp\\filewatcherapp\\fileloader\\csvfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|solutionrelative:filewatcherapp\\fileloader\\csvfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|d:\\c# meseleleri\\filewatcherapp\\filewatcherapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|solutionrelative:filewatcherapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|d:\\c# meseleleri\\filewatcherapp\\filewatcherapp\\directorymonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C53C911-B953-4DEA-B101-294A5AB1BC4C}|FileWatcherApp\\FileWatcherApp.csproj|solutionrelative:filewatcherapp\\directorymonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TXTFileLoader.cs",
+              "DocumentMoniker": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\FileLoader\\TXTFileLoader.cs",
+              "RelativeDocumentMoniker": "FileWatcherApp\\FileLoader\\TXTFileLoader.cs",
+              "ToolTip": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\FileLoader\\TXTFileLoader.cs",
+              "RelativeToolTip": "FileWatcherApp\\FileLoader\\TXTFileLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:49:18.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CSVFileLoader.cs",
+              "DocumentMoniker": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\FileLoader\\CSVFileLoader.cs",
+              "RelativeDocumentMoniker": "FileWatcherApp\\FileLoader\\CSVFileLoader.cs",
+              "ToolTip": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\FileLoader\\CSVFileLoader.cs",
+              "RelativeToolTip": "FileWatcherApp\\FileLoader\\CSVFileLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:49:12.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XMLFileLoader.cs",
+              "DocumentMoniker": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\FileLoader\\XMLFileLoader.cs",
+              "RelativeDocumentMoniker": "FileWatcherApp\\FileLoader\\XMLFileLoader.cs",
+              "ToolTip": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\FileLoader\\XMLFileLoader.cs",
+              "RelativeToolTip": "FileWatcherApp\\FileLoader\\XMLFileLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:19:01.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFileLoader.cs",
+              "DocumentMoniker": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\FileInterface\\IFileLoader.cs",
+              "RelativeDocumentMoniker": "FileWatcherApp\\FileInterface\\IFileLoader.cs",
+              "ToolTip": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\FileInterface\\IFileLoader.cs",
+              "RelativeToolTip": "FileWatcherApp\\FileInterface\\IFileLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:19:23.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DirectoryMonitor.cs",
+              "DocumentMoniker": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\DirectoryMonitor.cs",
+              "RelativeDocumentMoniker": "FileWatcherApp\\DirectoryMonitor.cs",
+              "ToolTip": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\DirectoryMonitor.cs",
+              "RelativeToolTip": "FileWatcherApp\\DirectoryMonitor.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:11:33.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FileWatcherApp\\MainWindow.xaml",
+              "ToolTip": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\MainWindow.xaml",
+              "RelativeToolTip": "FileWatcherApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T19:07:13.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FileWatcherApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FileWatcherApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:07:02.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PluginSystem.cs",
+              "DocumentMoniker": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\PluginSystem.cs",
+              "RelativeDocumentMoniker": "FileWatcherApp\\PluginSystem.cs",
+              "ToolTip": "D:\\C# meseleleri\\FileWatcherApp\\FileWatcherApp\\PluginSystem.cs",
+              "RelativeToolTip": "FileWatcherApp\\PluginSystem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:50:08.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
